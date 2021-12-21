@@ -1,0 +1,51 @@
+body{
+    background-color:black;
+}
+.image2{
+    padding-left: 0%;
+}
+
+.image-class1{
+    width:540px;
+    height: 540px;
+    border-radius: 50%;
+}
+.body{
+    background-color: #110406;
+    background-size: auto;
+    background-attachment: fixed;
+}
+.header{
+    color:white;
+    text-align: left;
+    padding-left: 25px;
+    font-size: 35px;
+}
+.header1{
+    color: white;
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 25px;
+    font-size: 45px;
+}
+.summary{
+    text-align: left;
+    color:white;
+    font-size: 35px;
+    padding-right: 45px;
+    border-radius: 50%;
+}
+.summary2{
+    text-align: left;
+    color:white;
+    font-size: 35px;
+    padding-right: 45px;
+    border-radius: 50%;
+}
+.summary3{
+    text-align: left;
+    color:white;
+    font-size: 35px;
+    padding-right: 45px;
+    border-radius: 50%;
+}
