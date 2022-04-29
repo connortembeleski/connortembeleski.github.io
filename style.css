@@ -49,3 +49,16 @@ body{
     padding-right: 45px;
     border-radius: 50%;
 }
+.summary4{
+    text-align: left;
+    color:white;
+    font-size: 35px;
+    padding-right: 45px;
+    border-radius: 50%;
+}
+.help{
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-left: 5px;
+  }
